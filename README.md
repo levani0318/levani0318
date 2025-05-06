@@ -24,6 +24,7 @@ I'm Levan!
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge)
 ![TailWindCss](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
@@ -31,7 +32,7 @@ I'm Levan!
 
 Visitors count
 <p align="left">
-  <img src="https://count.getloli.com/get/@levani0318?theme=moebooru" alt="visitor badge"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=levani0318&left_color=gray&right_color=blue&left_text=Visitors" alt="visitor badge" />
 </p>
 
 
