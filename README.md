@@ -29,7 +29,8 @@ I'm Levan!
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)
 
-
+Visitors count
+(https://count.getloli.com/get/@levani0318?theme=rule3)
 
 
 <!--
