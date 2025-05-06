@@ -1,4 +1,4 @@
-![Coding Gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<img src=(https://images.app.goo.gl/XJEstYrszdFTnvbq5)/>
 
 <!--
 **levani0318/levani0318** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
