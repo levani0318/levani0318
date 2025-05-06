@@ -30,7 +30,9 @@ I'm Levan!
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)
 
 Visitors count
-(https://count.getloli.com/get/@levani0318?theme=rule3)
+<p align="left">
+  <img src="https://count.getloli.com/get/@levani0318?theme=rule34" alt="visitor badge"/>
+</p>
 
 
 <!--
