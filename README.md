@@ -31,7 +31,7 @@ I'm Levan!
 
 Visitors count
 <p align="left">
-  <img src="https://count.getloli.com/get/@levani0318?theme=rule34" alt="visitor badge"/>
+  <img src="https://count.getloli.com/get/@levani0318?theme=moebooru" alt="visitor badge"/>
 </p>
 
 
