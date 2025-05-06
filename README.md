@@ -1,6 +1,3 @@
-## Hi there 👋
-## 🎬 Just a Bit of Vibes
-
 ![Coding Gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 <!--
