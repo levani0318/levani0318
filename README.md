@@ -1,5 +1,14 @@
 ![Coding Gif](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
+# Hi there, I'm Levan! 👋
+
+🌍 Based in: Tbilisi/Georgia  
+💻 Profession: Web Developer  
+🚀 Currently learning: **React** & **Next.js**  
+📫 Contact me: [LinkedIn](https://www.linkedin.com/in/levan-mgebrishvili-72835783/)  
+🎯 Goal: Build fast, modern, and clean web apps while constantly learning
+
+
 ## ⚙️ Tech Stack & Tools
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
