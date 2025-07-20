@@ -1,6 +1,6 @@
 # Hi there, 👋
 
-![Coding Gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWlkejdpajd3czBuZWNkc3FkdmlsemxpbTVlMGY2cW0xMzNvbTNxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
+![Coding Gif](https://tenor.com/qdIk1UBU9cJ.gif)
 
 
 I'm Levan! 
